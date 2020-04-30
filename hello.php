@@ -1,3 +1,4 @@
 <?php
-	echo "hola" .$_GET["nombre"];
+    echo "hola amigo"; 
+    echo "este es un cambio";
 ?>
